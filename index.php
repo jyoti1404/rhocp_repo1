@@ -1,4 +1,3 @@
 <?php
-print "Welcome to OCP"
-print "second..."
+print "Welcome to OCP second"
 ?>
